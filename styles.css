@@ -109,6 +109,29 @@ figcaption {
   padding-left: 60px;
   padding-right: 60px;
 }
+main {
+  z-index: 1;
+  margin-bottom: 270px;
+}
+.over {
+  padding: 35px;
+}
+.overlap {
+  position: absolute;
+  z-index: 1;
+  margin-top: -100px;
+}
+.overlap h2 {
+  font-size: 20px;
+}
+.overlap button {
+  font-size: 0.7em;
+  padding: 9px 25px;
+}
+footer {
+  padding-top: 100px;
+  z-index: 1;
+}
 footer ul {
   list-style-type: none;
 }
