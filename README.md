@@ -26,6 +26,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/huddlemobile.png.jpg)
+![](./images/huddledesktop.png.jpg)
 
 ### Links
 

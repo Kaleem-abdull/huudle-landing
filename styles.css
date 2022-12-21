@@ -111,15 +111,18 @@ figcaption {
 }
 main {
   z-index: 1;
-  margin-bottom: 270px;
+  margin-bottom: 80px;
 }
 .over {
   padding: 35px;
+  align-items: center;
+  text-align: center;
 }
 .overlap {
   position: absolute;
   z-index: 1;
   margin-top: -100px;
+  padding: 25px;
 }
 .overlap h2 {
   font-size: 20px;
@@ -160,4 +163,33 @@ footer a {
 }
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+@media screen and (min-width: 1300px) {
+  footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  main {
+    margin: 80px;
+  }
+  .tp img {
+    height: 40%;
+    width: 40%;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+  }
+  .over {
+    margin-left: 30%;
+  }
+  .overlap {
+    padding: auto 100px;
+  }
 }
