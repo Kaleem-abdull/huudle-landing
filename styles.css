@@ -6,7 +6,7 @@ body {
   font-size: 18px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  background: hsl(180, 3%, 94%);
+  background: white;
 }
 header {
   background: url("./images/bg-hero-mobile.svg");
@@ -79,6 +79,7 @@ article img {
   border-radius: 20px;
   border-style: none;
   margin: 30px;
+  box-shadow: 5px 5px 5px 5px rgba(71, 64, 64, 0.2);
 }
 .tp p {
   opacity: 50%;
@@ -187,9 +188,11 @@ footer a {
     grid-template-columns: 50% 50%;
   }
   .over {
-    margin-left: 30%;
+    margin-left: 15%;
+    margin-right: 20%;
   }
   .overlap {
     padding: auto 100px;
+    width: 60%;
   }
 }
