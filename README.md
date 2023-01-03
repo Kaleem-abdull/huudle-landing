@@ -6,9 +6,9 @@
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
 
-  - [Built with](#built-with)
+
+  
 
   - [Useful resources](#useful-resources)
 
@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Kaleem-abdull/huudle-landing](https://your-solution-url.com)
-- Live Site URL: [ https://kaleem-abdull.github.io/huudle-landing/](https://your-live-site-url.com)
+
+- Live Site URL: [Live site](https://huddle-cu0g.onrender.com/)
 
 ### Built with
 
